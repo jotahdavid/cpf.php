@@ -1,0 +1,17 @@
+{
+    "name": "jotahdavid/cpf",
+    "description": "A package to validate CPF",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jotahdavid\\Cpf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhonatan David",
+            "email": "82552187+jotahdavid@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
