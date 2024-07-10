@@ -2,7 +2,8 @@
 
 namespace Jotahdavid\Cpf;
 
-class Cpf {
+class Cpf
+{
     public const FISCAL_REGIONS = [
         ['RS'],
         ['DF', 'GO', 'MS', 'MT', 'TO'],
